@@ -1,0 +1,13 @@
+version: "3.9" 
+services:
+   ms:
+     build:
+        context: .
+     ports:
+       - "5136:80"
+     container_name: "${COMPOSE_PROJECT_NAME}"
+
+networks:
+  default:
+    name: financial-net
+

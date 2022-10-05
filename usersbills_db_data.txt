@@ -1,0 +1,108 @@
+	
+	{ 
+	"Number":"1000000000",
+	  "Info": {"UserId":"1234567890","Period":"1","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-01-2022", "DateTimely":"15-01-2022", "LateDate":"25-01-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pagado"
+	},
+	{ 
+	  "Number":"0100000000",
+	  "Info": {"UserId":"1234567890","Period":"2","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-07-2022", "DateTimely":"15-07-2022", "LateDate":"25-07-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pendiente"
+	 },
+
+
+	{ 
+	"Number":"0010000000",
+	  "Info": {"UserId":"1234567809","Period":"1","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-01-2022", "DateTimely":"15-01-2022", "LateDate":"25-01-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pagado"
+	},
+	{ 
+	  "Number":"0001000000",
+	  "Info": {"UserId":"1234567809","Period":"2","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-07-2022", "DateTimely":"15-07-2022", "LateDate":"25-07-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pendiente"
+	 },
+
+
+	{ 
+	"Number":"0000100000",
+	  "Info": {"UserId":"1234567089","Period":"1","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-01-2022", "DateTimely":"15-01-2022", "LateDate":"25-01-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pagado"
+	},
+	{ 
+	  "Number":"0000010000",
+	  "Info": {"UserId":"1234567089","Period":"2","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-07-2022", "DateTimely":"15-07-2022", "LateDate":"25-07-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pendiente"
+	 },
+
+
+	{ 
+	"Number":"0000001000",
+	  "Info": {"UserId":"1234560789","Period":"1","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-01-2022", "DateTimely":"15-01-2022", "LateDate":"25-01-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pagado"
+	},
+	{ 
+	  "Number":"0000000100",
+	  "Info": {"UserId":"1234560789","Period":"2","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-07-2022", "DateTimely":"15-07-2022", "LateDate":"25-07-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pendiente"
+	 },
+
+	{ 
+	  "Number":"0000000010",
+	  "Info": {"UserId":"1234506789","Period":"1","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-01-2022", "DateTimely":"15-01-2022", "LateDate":"25-01-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pagado"
+	},
+	{ 
+	  "Number":"0000000001",
+	  "Info": {"UserId":"1234506789","Period":"2","Year":"2022"},
+	  "Dates": {"DateOfIssue":"01-07-2022", "DateTimely":"15-07-2022", "LateDate":"25-07-2022"},
+	  "PaymentMethod": "N/A",
+	  "EnrolmentConcepts": "N/A",
+	  "Value": {"Value":"1000000","Discount":"N/A","TotalValue":"1000000"},
+	  "Remarks":"N/A",
+	  "Status":"Pendiente"
+	 },
