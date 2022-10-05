@@ -22,5 +22,5 @@ Create a database:
    - db.UsersBills.insertMany(["here the content from usersbills_db_data"])
 
 Test the api:
-9) Use postman or insomnia to test: 
-   - GET http://localhost:5136/financialms/bills/1234567890
+9) Use postman or insomnia to test:
+   - GET "http://localhost:5136/financialms/bills/1234567890"
